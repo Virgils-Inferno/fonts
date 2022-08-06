@@ -1,0 +1,6 @@
+@font-face {
+ font-family: Ash;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/Virgils-Inferno/fonts/0ce90bdec4880dd7c79c8a65a19b6c29b989c3b5/DCC%20-%20Ash.otf) ;
+}
