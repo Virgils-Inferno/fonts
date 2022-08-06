@@ -1,0 +1,6 @@
+@font-face {
+ font-family: DIN;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/Virgils-Inferno/fonts/557aecdcb0ecd8abb169471a3ae4f4a682dac9bd/DINCondensed-Bold.ttf) ;
+}
