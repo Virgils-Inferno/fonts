@@ -1,0 +1,6 @@
+@font-face {
+ font-family: Broken;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/Virgils-Inferno/fonts/a8b4e8dc2f5e8776afe468dcb59f0dea59e301eb/BROKEN15.TTF) ;
+}
